@@ -9,20 +9,17 @@
 |4-19|Skitarii Ranger|9|6"|4+|3+|3|3|1|1|6|4+|25mm|
 |1|Skitarii Ranger Alpha|9|6"|4+|3+|3|3|1|2|7|4+|25mm|
 
-```md
 If this unit contains between 6 and 10 models, it has Power Rating 6. If this unit contains between 11 and 15 models, it has Power Rating 9. If this unit contains 16 or more models, it has Power Rating 12. Every model is equipped with: galvanic rifle.
-```
+
 
 |WEAPON|Pts|RANGE|TYPE|S|AP|D|ABILITIES|
-|-|---|----|---------|--|---|--|-|
+|-|---|----|-----------|--|---|--|-|
 |Arc Pistol|5|12"|Pistol 1|5|-2|1|Each time an attack is made with this weapon against a "VEHICLE" unit, that attack has a Damage characteristic of 2 and an unmodified wound roll of 4+ successfully wounds the target.|
 |Phosphor blast pistol|5|12"|Pistol D3|5|-1|1|Blast. Each time an attack is made with this weapon, the target does not receive the benefits of Dense Cover against that attack.|
 |Radium pistol|0|12"|Pistol 1|3|0|1|Each time an attack is made with this weapon against an enemy unit (excluding "VEHICLE" units), an unmodified hit roll of 6 automatically wounds the target.|
 |Arc rifle|10|30"|Rapid Fire 1|6|-2|D3|Each time an attack is made with this weapon against a "VEHICLE" unit, that attack has a Damage characteristic of 3 and an unmodified wound roll of 4+ successfully wounds the target.|
 |Galvanic rifle|0|30"|Heavy 2|4|-1|1|-|
-|Plasma caliver|10|Before selecting targets, select one of the profiles to make attacks with.|||||||
-|Profile 1: Standard||30"|Assault 2|7|-3|1|-|
-|Profile 2: Supercharge||30"|Assault 2|8|-3|2|If any unmodified hit rolls of 1 are made for attacks with this weapon profile, the bearer is destroyed after shooting with this weapon.|
+|Plasma caliver<br />>Standard<br />>Supercharge|10<br /> <br /> <br />|<br />30"<br />30"|<br />Assault2<br />Assault2|<br />7<br />8|<br />-3<br/>-3|<br />1<br />2|Before selecting targets, select one of the profiles to make attacks with.<br />-<br />If any unmodified hit rolls of 1 are made for attacks with this weapon profile, the bearer is destroyed after shooting with this weapon.|
 |Transuranic arquebus|15|60"|Heavy 1|7|-2|D3|Each time you select a target for this weapon, you can ignore the Look Out, Sir rule. Each time an attack is made with this weapon, an unmodified wound roll of 6 inflicts 1 mortal wound on the target in addition to any normal damage.|
 |Arc maul|5|Melee|Melee|+3|-2|1|Each time an attack is made with this weapon against a "VEHICLE" unit, that attack has a Damage characteristic of 2 and an unmodified wound roll of 4+ successfully wounds the target.|
 |Power sword|5|Melee|Melee|+1|-3|1|-|
@@ -47,3 +44,8 @@ If this unit contains between 6 and 10 models, it has Power Rating 6. If this un
 * **Doctrina Imperatives** 
 * **Rangers**: At the start of the round,model in this unit can make a Normal move of up to 3". They cannot end this move within 9" of any enemy models.
 * Bionics: Model in this unit have a 6+ invulnerable save.
+--- 
+### Faction Keywords: **Imperium**, **Adeptus Mechanicus**, **Skitarii**
+
+### Keywords: **Infantry**, **Core**, **Skitarii Rangers**
+---
