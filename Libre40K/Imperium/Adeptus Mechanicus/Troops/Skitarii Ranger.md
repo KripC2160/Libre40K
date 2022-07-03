@@ -2,7 +2,7 @@
 |Unit type|Power|Name|Version|
 |-|--|--------------------------------------------|------------------------------|
 |![](../../../../resources/libre40kl-troop-icn.png)|10| Skitarii Ranger|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.2)
-|
+
 
 |No|NAME|Pts|M|WS|BS|S|T|W|A|Ld|Sv|Base|
 |-----|------------------------------|---|----|--|--|--|--|--|--|--|--|----|
