@@ -1,7 +1,7 @@
 
 |Unit type|Power|Name|Version|
 |-|--|--------------------------------------------|------------------------------|
-|[![](../../../../resources/libre40kl-troop-icn.png)](LINK)|10| Skitarii Vanguard|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.2)
+|[![troop icon](../../../../resources/libre40kl-troop-icn.png)](LINK)|10| Skitarii Vanguard|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.2)
 
 
 |No|NAME|Pts|M|WS|BS|S|T|W|A|Ld|Sv|Base|
