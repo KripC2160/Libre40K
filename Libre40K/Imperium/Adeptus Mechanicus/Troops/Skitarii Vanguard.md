@@ -1,16 +1,18 @@
 
 |Unit type|Power|Name|Version|
 |-|--|--------------------------------------------|------------------------------|
-|[![troop icon](../../../../resources/libre40kl-troop-icn.png)](LINK)|10| Skitarii Vanguard|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.2)
-
+|[![troop icon](../../../../resources/icons/libre40kl-troop-icn.png)](LINK)|10| Skitarii Vanguard|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.2)
 
 |No|NAME|Pts|M|WS|BS|S|T|W|A|Ld|Sv|Base|
 |-----|------------------------------|---|----|--|--|--|--|--|--|--|--|----|
 |4-19|Skitarii Vanguard|9|6"|4+|3+|3|3|1|1|6|4+|25mm|
 |1|Skitarii Vanguard Alpha|9|6"|4+|3+|3|3|1|2|7|4+|25mm|
 
-If this unit contains between 6 and 10 models, it has Power Rating 6. If this unit contains between 11 and 15 models, it has Power Rating 9. If this unit contains 16 or more models, it has Power Rating 12. Every model is equipped with: Radium carbine.
+---
 
+##### If this unit contains between 6 and 10 models, it has Power Rating 6. If this unit contains between 11 and 15 models, it has Power Rating 9. If this unit contains 16 or more models, it has Power Rating 12. Every model is equipped with: Radium carbine
+
+---
 
 |WEAPON|Pts|RANGE|TYPE|S|AP|D|ABILITIES|
 |-|---|----|-----------|--|---|--|-|
@@ -24,13 +26,16 @@ If this unit contains between 6 and 10 models, it has Power Rating 6. If this un
 |Arc maul|5|Melee|Melee|+3|-2|1|Each time an attack is made with this weapon against a <b>VEHICLE</b> unit, that attack has a Damage characteristic of 2 and an unmodified wound roll of 4+ successfully wounds the target.|
 |Power sword|5|Melee|Melee|+1|-3|1|-|
 |Taser goad|5|Melee|Melee|+2|-1|1|Each time an attack is made with this weapon, an unmodified hit roll of 6 scores 2 additional hits.|
+---
 
 |OTHER WARGEAR|Pts|ABILITIES|
 |-|-|-|
 |Enahnced data-tether|10|While the bearer is on the battlefield:<br />1: The bearer's unit gains the DATA-TETHER keyword.<br />2: Add1 to the Leadership characteristic of models in the bearer's unit.|
 |Omnispex|10|Each time a model in the bearer’s unit makes a ranged attack, the target does not receive the benefits of Light Cover against that attack.|
+---
 
-### **WARGEAR OPTIONS** 
+### **WARGEAR OPTIONS**
+
 * If this unit contains 9 or fewer models, 1 Skitarii Vanguard's radium carbine can be replaced with one of the following: 1 arc rifle; 1 plasma caliver; 1 transuranic arquebus.
 * For every 10 models in this unit, 1 Skitarii Vanguard’s radium carbine can be replaced with 1 arc rifle.
 * For every 10 models in this unit, 1 Skitarii Vanguard’s radium carbine can be replaced with 1 plasma caliver.
@@ -40,12 +45,20 @@ If this unit contains between 6 and 10 models, it has Power Rating 6. If this un
 * The Skitarii Vanguard Alpha can be equipped with one of the following: 1 arc maul; 1 power sword; 1 taser goad.
 * The Skitarii Vanguard Alpha’s galvanic rifle can be replaced with one of the following: 1 arc pistol; 1 phosphor blast pistol; 1 radium pistol.
 
+---
+
 ### **Abilities**
-* **Doctrina Imperatives** 
+
+* **Doctrina Imperatives**
 * **Rad-saturation(Aura)**: While an enemy unit (excluding **VEHICLE** units) is within Engagement Range of this unit, subtract 1 from the Strength and Toughness characteristics of models in that enemy unit.
 * Bionics: Model in this unit have a 6+ invulnerable save.
---- 
-### Faction Keywords: **Imperium**, **Adeptus Mechanicus**, **Skitarii**
+
+---
+
+### Faction Keywords: [**Imperium**](https://github.com/KripC2160/Libre40K/blob/main/Libre40K/Imperium/Imperium.md), [**Adeptus Mechanicus**](https://github.com/KripC2160/Libre40K/blob/main/Libre40K/Imperium/Adeptus%20Mechanicus/Adeptus%20Mechanicus.md), [**Skitarii**](https://github.com/KripC2160/Libre40K/blob/main/Libre40K/Imperium/Adeptus%20Mechanicus/Skitarii.md)
+
+---
 
 ### Keywords: **Infantry**, **Core**, **Skitarii Vanguard**
+
 ---
