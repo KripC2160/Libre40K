@@ -1,7 +1,7 @@
 
 |Unit type|Power|Name|Version|
 |-|--|--------------------------------------------|------------------------------|
-|![HQ icon]()|4|Tech-Priest Manipulus|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.3)|
+|![HQ icon](../../../../resources/icons/libre40kl-hq-icn.png)|4|Tech-Priest Manipulus|Codex. Adeptus Mechanicus (9th edition, version Indomitus 1.3)|
 
 |No|NAME|Pts|M|WS|BS|S|T|W|A|Ld|Sv|Base|
 |-----|------------------------------|---|----|--|--|--|--|--|--|--|--|----|
